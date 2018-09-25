@@ -1,6 +1,6 @@
 {
   "name": "jest-environment-wc-webdriver",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "Jest Environment for Web Components tested with Selenium",
   "main": "lib/index.js",
   "repository": "https://github.com/origami-cms/jest-environment-wc-webdriver",
